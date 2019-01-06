@@ -1,0 +1,6 @@
+*.csv 
+*.zip
+*.tiff
+shapefiles/*
+tmp/*
+*checkpoints*
